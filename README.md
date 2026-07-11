@@ -1,9 +1,9 @@
 # Sangama — welcome page
 
-Public landing page for **Sangama**, a private, invitation-only art-meets-science creative
+Public landing page for **Sangama**, a private art-meets-science creative
 studio for kids. One static `index.html` (self-contained), served via GitHub Pages.
 
-- **App:** https://sangama.web.app (invitation-only)
+- **App:** https://sangama.web.app (sign in with Google to start)
 - **Tagline:** *Where two worlds meet to make something new.*
 
 Every day, Sangama gives one creative challenge that blends an art with a science — so a child
